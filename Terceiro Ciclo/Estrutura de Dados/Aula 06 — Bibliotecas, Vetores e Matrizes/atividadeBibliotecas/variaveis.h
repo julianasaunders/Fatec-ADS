@@ -1,0 +1,2 @@
+int codigo;
+int valor;
