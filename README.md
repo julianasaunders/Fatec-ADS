@@ -34,6 +34,7 @@ O Tecnólogo em Análise e Desenvolvimento de Sistemas analisa, projeta, documen
 
 #### 📂 Ciclos
 
+- Segundo Ciclo: [Lua & Cia](https://github.com/julianasaunders/lua-e-cia), aplicativo mobile de adoção e apadrinhamento de animais.
 - [Terceiro Ciclo](Terceiro%20Ciclo/README.md): Estrutura de Dados, Engenharia de Software II e Sistemas Operacionais.
 
 ---
