@@ -16,7 +16,7 @@ Resumo dos conteúdos programáticos das disciplinas do terceiro ciclo de Análi
 - Algoritmos: recursividade, métodos de ordenação e complexidade.
 - Grafos: introdução ao tema.
 
-**Projeto:** [Estrutura de Dados](Estrutura%20de%20Dados/README.md), exercícios em C/C++ por aula (aulas 01 a 10).
+[Estrutura de Dados](Estrutura%20de%20Dados/README.md), exercícios em C/C++ por aula (aulas 01 a 11).
 
 ---
 
@@ -36,7 +36,7 @@ Resumo dos conteúdos programáticos das disciplinas do terceiro ciclo de Análi
 - Prototipação do sistema 02.
 - Entrega do projeto final.
 
-**Projeto:** [Engenharia de Software II](Engenharia%20de%20Software%20II/README.md), atividades de requisitos, prototipação e casos de uso.
+[Engenharia de Software II](Engenharia%20de%20Software%20II/README.md), atividades de requisitos, prototipação e casos de uso.
 
 ---
 
@@ -54,7 +54,7 @@ Resumo dos conteúdos programáticos das disciplinas do terceiro ciclo de Análi
 - Aula 06: gerenciamento de memória (hierarquia, paginação e memória virtual).
 - Aula 07: computação em nuvem, containers e deploy.
 
-**Projeto:** [Sistemas Operacionais](Sistemas%20Operacionais/README.md), anotações e atividades por aula.
+[Sistemas Operacionais](Sistemas%20Operacionais/README.md), anotações e atividades por aula.
 
 ---
 
