@@ -16,6 +16,7 @@ Repositório com as anotações, resumos e exercícios em **C/C++** desenvolvido
 | **08** | Vetores e listas | [Atividades](Aula%2008%20%E2%80%94%20Vetores%20e%20Listas/README.md) |
 | **09** | `structs` e registros | [Atividades](Aula%2009%20%E2%80%94%20Structs/README.md) |
 | **10** | Lista dinâmica (alocação com `new` e `delete`) | [Atividade](Aula%2010%20%E2%80%94%20Lista%20Din%C3%A2mica/README.md) |
+| **11** | Pilha (Stack) — LIFO e comparação com fila | [Atividades](Aula%2011%20%E2%80%94%20Pilha%20(Stack)/README.md) |
 
 ## 🎓 Sobre a disciplina
 
