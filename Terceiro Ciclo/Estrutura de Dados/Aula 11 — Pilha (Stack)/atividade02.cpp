@@ -15,59 +15,59 @@ struct registro {
 
 typedef registro* ponteiro;
 
-// Função para exibir a Pilha (do topo para a base)
+
 void exibePilha(ponteiro u){
 	ponteiro aux;
 	aux = u;
 
-	printf("\n=== EXIBINDO A PILHA (LIFO) ===");
+	printf("PILHA (LIFO):\n");
+	
 	while (aux != NULL){
-		printf("\n-------------------------\n");
-		printf("ID: %d\n", aux->id);
+		printf("\nID: %d\n", aux->id);
 		printf("Nome: %s\n", aux->nome);
 		printf("RG: %s\n", aux->rg);
 		printf("CPF: %s\n", aux->cpf);
 		printf("Cidade: %s\n", aux->cidade);
-		aux = aux->ant;     
+		printf("---------------------\n");
+		aux = aux->ant;     	
 	}
 }
 
-// Função para exibir a Fila (do início para o fim)
 void exibeFila(ponteiro inicio){
 	ponteiro aux;
 	aux = inicio;
 
-	printf("\n=== EXIBINDO A FILA (FIFO) ===");
+	printf("\nFILA (FIFO):\n");
+	
 	while (aux != NULL){
-		printf("\n-------------------------\n");
-		printf("ID: %d\n", aux->id);
+		printf("\nID: %d\n", aux->id);
 		printf("Nome: %s\n", aux->nome);
 		printf("RG: %s\n", aux->rg);
 		printf("CPF: %s\n", aux->cpf);
 		printf("Cidade: %s\n", aux->cidade);
-		aux = aux->ant;     
+		printf("---------------------\n");
+		aux = aux->ant;     	
 	}
 }
 
 int main() {
 	setlocale(LC_ALL, "Portuguese");
 
-	// Ponteiros da Pilha
 	ponteiro ult = NULL;
 	
-	// Ponteiros da Fila (Início e Fim)
 	ponteiro inicio = NULL;
 	ponteiro fim = NULL;
 	
 	ponteiro aux;
 	char resp = 'S';
 
-	// ==================== CADASTRO DA PILHA ====================
+
 	printf("--- CADASTRO DA PILHA ---\n");
+	
 	while (toupper(resp) == 'S'){
 		aux = new registro;
 		
-		printf("\nInforme o ID do cliente (Pilha): \n");
+		printf("\nInforme o ID do cliente: \n");
 		scanf("%d", &aux->id);
 
 		printf("Informe o nome do cliente: \n");
@@ -90,20 +90,18 @@ int main() {
 		
 		ult = aux;
 	  
-		printf("Informe S para continuar na Pilha \n");
+		printf("Deseja continuar na Pilha? (S/N): \n");
 		fflush(stdin);
 		scanf(" %c", &resp);         
 	}
 
-	// Reseta a resposta para cadastrar a fila
 	resp = 'S';
 
-	// ==================== CADASTRO DA FILA ====================
 	printf("\n\n--- CADASTRO DA FILA ---\n");
 	while (toupper(resp) == 'S'){
 		aux = new registro;
 		
-		printf("\nInforme o ID do cliente (Fila): \n");
+		printf("\nInforme o ID do cliente: \n");
 		scanf("%d", &aux->id);
 
 		printf("Informe o nome do cliente: \n");
@@ -120,24 +118,21 @@ int main() {
 
 		aux->ant = NULL;
 		
-		// Lógica de inserção no Fim da Fila
 		if (inicio == NULL) {
-			// Se a fila estiver vazia, o novo elemento é o primeiro e o último
 			inicio = aux;
 			fim = aux;
 		} else {
-			// Se já tiver elementos, o antigo fim aponta para o novo elemento
 			fim->ant = aux;
-			// Atualiza o ponteiro fim para o novo elemento
 			fim = aux;
 		}
 	  
-		printf("Informe S para continuar na Fila \n");
+		printf("Deseja continuar na Fila? (S/N): \n");
 		fflush(stdin);
 		scanf(" %c", &resp);         
 	}
-
-	// ==================== EXIBIÇÃO DOS DADOS ====================
+	
+	system("cls");
+	
 	exibePilha(ult);
 	exibeFila(inicio);  
 
