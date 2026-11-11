@@ -59,9 +59,9 @@ flowchart TD
 
 | Arquivo | O que apresenta |
 |---|---|
-| [💻 atividade01.cpp](atividade01.cpp) | Inserção e exibição de números em um vetor. |
-| [💻 atividade02.cpp](atividade02.cpp) | Versão com letras e percurso do vetor. |
-| [💻 atividade03.cpp](atividade03.cpp) | Ordenação dos valores do vetor. |
+| [💻 atividade01-OrdenacaoNumeros.cpp](atividade01-OrdenacaoNumeros.cpp) | Inserção e exibição de números em um vetor. |
+| [💻 atividade02-OrdenacaoLetras.cpp](atividade02-OrdenacaoLetras.cpp) | Versão com letras e percurso do vetor. |
+| [💻 atividade03-OrdenacaoEBusca.cpp](atividade03-OrdenacaoEBusca.cpp) | Ordenação dos valores do vetor. |
 | [💻 lista_futebol.cpp](lista_futebol.cpp) | Tabela de times com pontos e gols em vetores paralelos. |
 
 ---

@@ -127,8 +127,8 @@ Durante o processo, o instalador usa **gerenciamento de memória**, **escaloname
 |---|---|
 | [📝 resumoAula04.md](resumoAula04.md) | Componentes do SO, modos de execução, processos e threads, sistema de arquivos, E/S e reuso de sistemas. |
 | [🧠 o-que-e-Kernel.md](o-que-e-Kernel.md) | Explicação didática do kernel, a metáfora do restaurante, suas funções e kernels do mercado. |
-| [💿 atividade01.md](atividade01.md) | Relatório técnico da formatação e instalação do Windows, com linha do tempo e desafio final. |
-| [🔍 atividade02.md](atividade02.md) | Comparação de cinco sistemas derivados: Android, macOS, Ubuntu, webOS e SteamOS. |
+| [💿 atividade01-FormatacaoInstalacaoWindows.md](atividade01-FormatacaoInstalacaoWindows.md) | Relatório técnico da formatação e instalação do Windows, com linha do tempo e desafio final. |
+| [🔍 atividade02-SistemasDerivados.md](atividade02-SistemasDerivados.md) | Comparação de cinco sistemas derivados: Android, macOS, Ubuntu, webOS e SteamOS. |
 
 ---
 

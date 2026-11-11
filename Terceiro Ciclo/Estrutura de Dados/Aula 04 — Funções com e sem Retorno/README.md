@@ -62,8 +62,8 @@ flowchart LR
 
 | Arquivo | O que apresenta |
 |---|---|
-| [💻 atividade01.cpp](atividade01.cpp) | Cálculo de média com P1, P2 e ATV e verificação de aprovação. |
-| [💻 atividade02.cpp](atividade02.cpp) | Funções `ftabuada()` e `fcubo()` aplicadas a um número. |
+| [💻 atividade01-CalculoMedia.cpp](atividade01-CalculoMedia.cpp) | Cálculo de média com P1, P2 e ATV e verificação de aprovação. |
+| [💻 atividade02-TabuadaECubo.cpp](atividade02-TabuadaECubo.cpp) | Funções `ftabuada()` e `fcubo()` aplicadas a um número. |
 | [💻 tarefa.cpp](tarefa.cpp) | Média com função `fsub()` para a prova substitutiva. |
 
 ---

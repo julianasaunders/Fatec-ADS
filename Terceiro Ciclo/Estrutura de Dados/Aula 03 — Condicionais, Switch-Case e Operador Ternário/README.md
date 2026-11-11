@@ -59,8 +59,8 @@ flowchart TD
 | Arquivo | O que apresenta |
 |---|---|
 | [📝 resumoAula03.md](resumoAula03.md) | Resumo da aula: variáveis, operadores, decisão, `switch/case` e ternário. |
-| [💻 atividade01.cpp](atividade01.cpp) | Dia da semana com `if/else` encadeado. |
-| [💻 atividade02.cpp](atividade02.cpp) | Mesmo problema resolvido com `switch/case`. |
+| [💻 atividade01-DiaDaSemanaIf.cpp](atividade01-DiaDaSemanaIf.cpp) | Dia da semana com `if/else` encadeado. |
+| [💻 atividade02-DiaDaSemanaSwitch.cpp](atividade02-DiaDaSemanaSwitch.cpp) | Mesmo problema resolvido com `switch/case`. |
 | [💻 atividade03ternario.cpp](atividade03ternario.cpp) | Par ou ímpar com operador ternário. |
 | [💻 desafio01ifElse.cpp](desafio01ifElse.cpp) | Menu de matérias do curso com `if/else`. |
 | [💻 desafio01switchCase.cpp](desafio01switchCase.cpp) | Mesmo menu com `switch/case`. |

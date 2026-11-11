@@ -59,7 +59,7 @@ Vetores **paralelos** compartilham o mesmo índice: `nome[3]` descreve o produto
 
 | Arquivo | O que apresenta |
 |---|---|
-| [💻 atividade01.cpp](atividade01.cpp) | Funções `fsoma()`, `fmult()` e `fcubo()` encadeadas sobre um número. |
+| [💻 atividade01-FuncoesEncadeadas.cpp](atividade01-FuncoesEncadeadas.cpp) | Funções `fsoma()`, `fmult()` e `fcubo()` encadeadas sobre um número. |
 | [💻 tarefa.cpp](tarefa.cpp) | Sistema de vendas com cadastro, carrinho, total e baixa de estoque. |
 | [💻 tarefa_edit_em_aula.cpp](tarefa_edit_em_aula.cpp) | Versão do sistema ajustada durante a aula. |
 

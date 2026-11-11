@@ -68,8 +68,8 @@ flowchart TD
 | Arquivo | O que apresenta |
 |---|---|
 | [📝 resumoAula02.md](resumoAula02.md) | Resumo completo: operadores, teste de mesa, condicionais, operadores lógicos e desafio. |
-| [💻 atividade01.cpp](atividade01.cpp) | Verificação de maioridade a partir da idade informada. |
-| [💻 atividade02.cpp](atividade02.cpp) | Verifica se um número está no intervalo de 10 a 20. |
+| [💻 atividade01-MaiorMenorIdade.cpp](atividade01-MaiorMenorIdade.cpp) | Verificação de maioridade a partir da idade informada. |
+| [💻 atividade02-VerificaIntervalo.cpp](atividade02-VerificaIntervalo.cpp) | Verifica se um número está no intervalo de 10 a 20. |
 | [💻 desafio.cpp](desafio.cpp) | Classifica um número como positivo, negativo ou zero. |
 
 ---

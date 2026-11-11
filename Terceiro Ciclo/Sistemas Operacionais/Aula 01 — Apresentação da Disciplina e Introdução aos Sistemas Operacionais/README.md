@@ -292,7 +292,7 @@ Esta aula teve como objetivo apresentar a disciplina e introduzir os principais 
 
 | Arquivo | O que apresenta |
 |---|---|
-| [📄 atividade01.md](atividade01.md) | Linha do tempo dos sistemas operacionais em formato Markdown, com resumo cronológico de 1956 a 2021. |
+| [📄 atividade01-LinhaDoTempoSO.md](atividade01-LinhaDoTempoSO.md) | Linha do tempo dos sistemas operacionais em formato Markdown, com resumo cronológico de 1956 a 2021. |
 | [🖼️ linhaTempo.jpg](linhaTempo.jpg) | Representação visual da linha do tempo produzida na atividade. |
 
 ---

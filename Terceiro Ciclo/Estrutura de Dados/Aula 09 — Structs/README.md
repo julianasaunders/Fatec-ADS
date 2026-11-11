@@ -61,8 +61,8 @@ Cada posição do vetor (`ficha[0]`, `produto[3]`…) guarda **todos os campos**
 
 | Arquivo | O que apresenta |
 |---|---|
-| [💻 atividade01.cpp](atividade01.cpp) | Cadastro de clientes com `struct TbFicha`, inserção e listagem. |
-| [💻 atividade02.cpp](atividade02.cpp) | Cadastro de produtos com `struct TbProduto`, valor, quantidade e status. |
+| [💻 atividade01-StructFichaCliente.cpp](atividade01-StructFichaCliente.cpp) | Cadastro de clientes com `struct TbFicha`, inserção e listagem. |
+| [💻 atividade02-StructProduto.cpp](atividade02-StructProduto.cpp) | Cadastro de produtos com `struct TbProduto`, valor, quantidade e status. |
 
 ---
 

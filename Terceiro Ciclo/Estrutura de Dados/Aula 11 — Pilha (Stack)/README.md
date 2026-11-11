@@ -77,8 +77,8 @@ flowchart LR
 
 | Arquivo | O que apresenta |
 |---|---|
-| [💻 atividade01.cpp](atividade01.cpp) | Pilha dinâmica de clientes com `struct registro`, empilhamento no topo e exibição em ordem LIFO. |
-| [💻 atividade02.cpp](atividade02.cpp) | Comparação entre Pilha (LIFO) e Fila (FIFO): cadastra e exibe as duas estruturas lado a lado. |
+| [💻 atividade01-PilhaDinamica.cpp](atividade01-PilhaDinamica.cpp) | Pilha dinâmica de clientes com `struct registro`, empilhamento no topo e exibição em ordem LIFO. |
+| [💻 atividade02-PilhaVsFila.cpp](atividade02-PilhaVsFila.cpp) | Comparação entre Pilha (LIFO) e Fila (FIFO): cadastra e exibe as duas estruturas lado a lado. |
 
 ---
 
