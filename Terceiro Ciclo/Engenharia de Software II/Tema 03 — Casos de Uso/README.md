@@ -1,4 +1,4 @@
-# 🧩 Aula — Tema 03 - Casos de Uso
+# 🧩 Tema 03 — Casos de Uso
 
 Depois de levantar os requisitos e prototipar as telas, a disciplina avança para o **diagrama de casos de uso**: a visão macro de como o usuário interage com o sistema, sem se preocupar com a forma como as funcionalidades serão executadas.
 
@@ -185,4 +185,4 @@ Além do diagrama, cada caso de uso deve ser documentado para verificar o passo 
 
 ---
 
-[← Aula — Tema 02 - Prototipação](../Aula%20%E2%80%94%20Tema%2002%20-%20Prototipa%C3%A7%C3%A3o/README.md) · [📚 Índice da disciplina](../README.md)
+[← Tema 02 — Prototipação](../Tema%2002%20%E2%80%94%20Prototipa%C3%A7%C3%A3o/README.md) · [📚 Índice da disciplina](../README.md)

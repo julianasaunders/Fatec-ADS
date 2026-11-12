@@ -6,9 +6,9 @@ Repositório com as atividades e documentos desenvolvidos na disciplina de **Eng
 
 | Aula | Assunto | Material |
 |---|---|---|
-| **Aula — Tema 01 - Levantamento de Requisitos** | Apresentação da disciplina e levantamento de requisitos | [Programa, avaliação e documentos de requisitos](Aula%20%E2%80%94%20Tema%2001%20-%20Levantamento%20de%20Requisitos/README.md) |
-| **Aula — Tema 02 - Prototipação** | Prototipação do sistema | [Protótipos do banco e da clínica odontológica](Aula%20%E2%80%94%20Tema%2002%20-%20Prototipa%C3%A7%C3%A3o/README.md) |
-| **Aula — Tema 03 - Casos de Uso** | Diagramas de casos de uso | [Conceitos e documentação dos casos de uso](Aula%20%E2%80%94%20Tema%2003%20-%20Casos%20de%20Uso/README.md) |
+| **Tema 01 — Levantamento de Requisitos** | Apresentação da disciplina e levantamento de requisitos | [Programa, avaliação e documentos de requisitos](Tema%2001%20%E2%80%94%20Levantamento%20de%20Requisitos/README.md) |
+| **Tema 02 — Prototipação** | Prototipação do sistema | [Protótipos do banco e da clínica odontológica](Tema%2002%20%E2%80%94%20Prototipa%C3%A7%C3%A3o/README.md) |
+| **Tema 03 — Casos de Uso** | Diagramas de casos de uso | [Conceitos e documentação dos casos de uso](Tema%2003%20%E2%80%94%20Casos%20de%20Uso/README.md) |
 
 ## 🎓 Sobre a disciplina
 
