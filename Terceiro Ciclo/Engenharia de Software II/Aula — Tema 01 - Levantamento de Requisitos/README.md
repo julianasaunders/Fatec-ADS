@@ -1,4 +1,4 @@
-# 📋 Aula — Levantamento de Requisitos
+# 📋 Aula — Tema 01 - Levantamento de Requisitos
 
 Antes de prototipar telas e modelar o sistema, a disciplina inicia com o **levantamento de requisitos**: entender o problema, identificar as necessidades dos usuários e documentar o que o sistema deve fazer.
 
@@ -73,4 +73,4 @@ Elaborar o **documento de requisitos** do sistema escolhido, listando os requisi
 
 ---
 
-[📚 Índice da disciplina](../README.md) · [→ Aula — Prototipação](../Aula%20%E2%80%94%20Prototipa%C3%A7%C3%A3o/README.md)
+[📚 Índice da disciplina](../README.md) · [→ Aula — Tema 02 - Prototipação](../Aula%20%E2%80%94%20Tema%2002%20-%20Prototipa%C3%A7%C3%A3o/README.md)

@@ -1,4 +1,4 @@
-# 🎨 Aula — Prototipação
+# 🎨 Aula — Tema 02 - Prototipação
 
 Depois da documentação de requisitos, a disciplina avança para a **prototipação**: transformar os requisitos em telas navegáveis que permitem validar o sistema com o cliente antes de programar.
 
@@ -74,4 +74,4 @@ Criar o **protótipo navegável** do sistema escolhido, cobrindo as telas princi
 
 ---
 
-[← Aula — Levantamento de Requisitos](../Aula%20%E2%80%94%20Levantamento%20de%20Requisitos/README.md) · [📚 Índice da disciplina](../README.md) · [→ Aula — Caso de Uso](../Aula%20%E2%80%94%20Caso%20de%20Uso/README.md)
+[← Aula — Tema 01 - Levantamento de Requisitos](../Aula%20%E2%80%94%20Tema%2001%20-%20Levantamento%20de%20Requisitos/README.md) · [📚 Índice da disciplina](../README.md) · [→ Aula — Tema 03 - Casos de Uso](../Aula%20%E2%80%94%20Tema%2003%20-%20Casos%20de%20Uso/README.md)
