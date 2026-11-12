@@ -6,9 +6,9 @@ Repositório com as atividades e documentos desenvolvidos na disciplina de **Eng
 
 | Aula | Assunto | Material |
 |---|---|---|
-| **01 e 02** | Apresentação da disciplina e levantamento de requisitos | [Programa, avaliação e documentos de requisitos](Aula%2001%20e%2002%20%E2%80%94%20Levantamento%20de%20Requisitos/README.md) |
-| **03 e 04** | Prototipação do sistema | [Protótipos do banco e da clínica odontológica](Aula%2003%20e%2004%20%E2%80%94%20Prototipa%C3%A7%C3%A3o/README.md) |
-| **05 e 06** | Diagramas de casos de uso | [Conceitos e documentação dos casos de uso](Aula%2005%20e%2006%20%E2%80%94%20Caso%20de%20Uso/README.md) |
+| **Aula — Levantamento de Requisitos** | Apresentação da disciplina e levantamento de requisitos | [Programa, avaliação e documentos de requisitos](Aula%20%E2%80%94%20Levantamento%20de%20Requisitos/README.md) |
+| **Aula — Prototipação** | Prototipação do sistema | [Protótipos do banco e da clínica odontológica](Aula%20%E2%80%94%20Prototipa%C3%A7%C3%A3o/README.md) |
+| **Aula — Caso de Uso** | Diagramas de casos de uso | [Conceitos e documentação dos casos de uso](Aula%20%E2%80%94%20Caso%20de%20Uso/README.md) |
 
 ## 🎓 Sobre a disciplina
 

@@ -1,4 +1,4 @@
-# 🧩 Aula 05 e 06 — Caso de Uso
+# 🧩 Aula — Caso de Uso
 
 Depois de levantar os requisitos e prototipar as telas, a disciplina avança para o **diagrama de casos de uso**: a visão macro de como o usuário interage com o sistema, sem se preocupar com a forma como as funcionalidades serão executadas.
 
@@ -185,4 +185,4 @@ Além do diagrama, cada caso de uso deve ser documentado para verificar o passo 
 
 ---
 
-[← Aula 03 e 04](../Aula%2003%20e%2004%20%E2%80%94%20Prototipa%C3%A7%C3%A3o/README.md) · [📚 Índice da disciplina](../README.md)
+[← Aula — Prototipação](../Aula%20%E2%80%94%20Prototipa%C3%A7%C3%A3o/README.md) · [📚 Índice da disciplina](../README.md)
