@@ -4,10 +4,10 @@ Protótipo de uma **máquina de coleta de sangue** desenvolvida na disciplina de
 
 ## 👥 Integrantes do grupo
 
-- Jaquelline Feitoza
-- Juliana Saunders
-- Kauã Oliveira
-- Reinaldo Gomes
+- [Jaquelline Feitoza](https://github.com/jaquellinef) (@jaquellinef)
+- [Juliana Saunders](https://github.com/julianasaunders) (@julianasaunders)
+- [Kauã Oliveira](https://github.com/kaua0083) (@kaua0083)
+- [Reinaldo Gomes](https://github.com/reinaldo31wjm) (@reinaldo31wjm)
 
 ## 🎯 Objetivo
 
