@@ -58,6 +58,22 @@ Resumo dos conteúdos programáticos das disciplinas do terceiro ciclo de Análi
 
 ---
 
+#### 🖱️ Interação Humano Computador
+
+**Professor:** Me. Marcelo Camargo
+
+**Conteúdo programático**
+
+- Fatores Humanos em Sistemas Computacionais.
+- Fundamentos Teóricos em Interação Humano-Computador.
+- Usabilidade, Comunicabilidade e Acessibilidade.
+- Design de Interação e Processo de Design de Interação.
+- Projeto, Construção e Avaliação de Interfaces.
+
+[Interação Humano Computador](Intera%C3%A7%C3%A3o%20Humano%20Computador/README.md), anotações e atividades da disciplina.
+
+---
+
 #### 🔗 Outros projetos do terceiro ciclo
 
 - 🖥️ [Monitor de Sistemas Operacionais](https://github.com/julianasaunders/SO): aplicação Node.js + Express que exibe memória, CPU, plataforma e uptime do servidor.
