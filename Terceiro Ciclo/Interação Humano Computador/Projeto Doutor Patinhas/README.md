@@ -34,23 +34,9 @@ As telas do software embarcado no equipamento foram elaboradas no **Figma**, con
 
 🔗 **Protótipo no Figma:** [Doutor Patinhas](https://www.figma.com/design/GwLvPR7OUpES5NBINwQFMT/Doutor-Patinhas?node-id=0-1&p=f&t=1GZZfOV8Y4XhHdnV-0)
 
-## 🛠️ Etapas do projeto
-
-1. Dar continuidade à prototipagem em papel (Paper Prototyping).
-2. Registrar e enviar de 3 a 5 fotos do estado atual do protótipo.
-3. Criar 2 imagens (utilizando ferramentas de IA) demonstrando o produto desenvolvido.
-4. Elaborar o esboço de 10 a 15 telas do software embarcado no equipamento.
-5. Relatar os desafios detectados durante o processo de prototipagem.
-
 ## ⚠️ Desafios identificados
 
 - Pensar em todos os possíveis fluxos que o usuário pode percorrer e suas respectivas respostas.
 - Fazer com que a pessoa fique tranquila ao fazer o exame, mesmo sem uma pessoa presente para dar suporte.
 - Colocar todas as opções de pagamento possíveis, pensando também nas dificuldades de algumas pessoas.
 - Encontrar uma forma alternativa de inclusão a todas as pessoas.
-
-## 📂 Estrutura
-
-- `README.md` — descrição do projeto.
-- (em breve) fotos do protótipo e imagens geradas por IA.
-" path="C:\Users\Juliana\Fatec-ADS\Terceiro Ciclo\Interação Humano Computador\Projeto Doutor Patinhas\README.md"
