@@ -47,4 +47,3 @@ A **Prova Substitutiva** substitui a menor nota entre P1 e P2 — não substitui
 - [SBC — Simpósio Brasileiro sobre Fatores Humanos em Sistemas Computacionais (IHC)](https://sol.sbc.org.br/)
 - [ACM Digital Library — área de HCI](https://dl.acm.org/)
 - [Nielsen Norman Group](https://www.nngroup.com/) — artigos sobre usabilidade e UX.
-" path="C:\Users\Juliana\Fatec-ADS\Terceiro Ciclo\Interação Humano Computador\README.md"
