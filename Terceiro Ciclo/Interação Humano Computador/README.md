@@ -38,6 +38,10 @@ A **Prova Substitutiva** substitui a menor nota entre P1 e P2 — não substitui
 - ROGERS, Y.; SHARP, H.; PREECE, J. *Design de Interação: Além da Interação Humano-Computador*. Bookman.
 - CYBIS, W.; BETIOL, A. H.; FAUST, R. *Ergonomia e Usabilidade: Conhecimentos, Métodos e Aplicações*. Novatec.
 
+### 📂 Projetos
+
+- 🩸 [Projeto Doutor Patinhas](Projeto%20Doutor%20Patinhas/README.md) — protótipo de máquina de coleta de sangue para farmácias (autoatendimento).
+
 ### 🔗 Portais citados
 
 - [SBC — Simpósio Brasileiro sobre Fatores Humanos em Sistemas Computacionais (IHC)](https://sol.sbc.org.br/)
