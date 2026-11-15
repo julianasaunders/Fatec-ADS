@@ -48,14 +48,6 @@ As telas do software embarcado no equipamento foram elaboradas no **Figma**, con
 
 ![Telas Doutor Patinhas](telas-doutor-patinhas.png)
 
-## 🛠️ Etapas do projeto
-
-1. Dar continuidade à prototipagem em papel (Paper Prototyping).
-2. Registrar e enviar de 3 a 5 fotos do estado atual do protótipo.
-3. Criar 2 imagens (utilizando ferramentas de IA) demonstrando o produto desenvolvido.
-4. Elaborar o esboço de 10 a 15 telas do software embarcado no equipamento.
-5. Relatar os desafios detectados durante o processo de prototipagem.
-
 ## ⚠️ Desafios identificados
 
 - Pensar em todos os possíveis fluxos que o usuário pode percorrer e suas respectivas respostas.
