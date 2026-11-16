@@ -77,4 +77,4 @@ Resumo dos conteúdos programáticos das disciplinas do terceiro ciclo de Análi
 #### 🔗 Outros projetos do terceiro ciclo
 
 - 🖥️ [Monitor de Sistemas Operacionais](https://github.com/julianasaunders/SO): aplicação Node.js + Express que exibe memória, CPU, plataforma e uptime do servidor.
-- 🗂️ [CaosZero 2.0](https://github.com/julianasaunders/caosZero): automatizador de tarefas com arquivos em Python, desenvolvido na disciplina de Sistemas Operacionais.
+- 🗂️ [MeOwganiza 2.0](https://github.com/julianasaunders/MeOwganiza): automatizador de tarefas com arquivos em Python, desenvolvido na disciplina de Sistemas Operacionais.
