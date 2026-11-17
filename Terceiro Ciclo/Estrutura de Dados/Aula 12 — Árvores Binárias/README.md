@@ -42,15 +42,20 @@ Essa organização pode reduzir o trabalho de busca quando a árvore está bem d
                   12
 ```
 
-| Nomenclatura | Definição |
-|---|---|
-| **Raiz** | Nó que fica no topo da árvore. É o primeiro valor inserido e, nesta árvore de busca, o primeiro comparado durante cada nova inserção. Não possui pai. |
-| **Nó** | Cada elemento armazenado na estrutura. Guarda um valor e pode apontar para um filho à esquerda e outro à direita. |
-| **Filhos** | Nós ligados diretamente abaixo de outro nó. Em uma árvore binária, cada nó pode ter no máximo dois filhos. |
-| **Pai** | Nó imediatamente acima de outro, ligado diretamente a ele. Todo nó, exceto a raiz, tem exatamente um pai. |
-| **Folha** | Nó que não possui filhos; seus ponteiros esquerdo e direito são `NULL`. |
-| **Subárvore** | Um nó considerado como raiz junto com todos os seus descendentes. |
-| **Altura** | Número de ligações (arestas) no caminho mais longo da raiz até uma folha. |
+<table width="100%">
+  <thead>
+    <tr><th>Nomenclatura</th><th>Definição</th></tr>
+  </thead>
+  <tbody>
+    <tr><td><strong>Raiz</strong></td><td>Nó que fica no topo da árvore. É o primeiro valor inserido e, nesta árvore de busca, o primeiro comparado durante cada nova inserção. Não possui pai.</td></tr>
+    <tr><td><strong>Nó</strong></td><td>Cada elemento armazenado na estrutura. Guarda um valor e pode apontar para um filho à esquerda e outro à direita.</td></tr>
+    <tr><td><strong>Filhos</strong></td><td>Nós ligados diretamente abaixo de outro nó. Em uma árvore binária, cada nó pode ter no máximo dois filhos.</td></tr>
+    <tr><td><strong>Pai</strong></td><td>Nó imediatamente acima de outro, ligado diretamente a ele. Todo nó, exceto a raiz, tem exatamente um pai.</td></tr>
+    <tr><td><strong>Folha</strong></td><td>Nó que não possui filhos; seus ponteiros esquerdo e direito são <code>NULL</code>.</td></tr>
+    <tr><td><strong>Subárvore</strong></td><td>Um nó considerado como raiz junto com todos os seus descendentes.</td></tr>
+    <tr><td><strong>Altura</strong></td><td>Número de ligações (arestas) no caminho mais longo da raiz até uma folha.</td></tr>
+  </tbody>
+</table>
 
 > **Relação entre os termos:** um nó pode ser filho de um nó e, ao mesmo tempo, pai de outros. A raiz de uma subárvore é seu nó inicial; ela não altera qual é a raiz da árvore completa.
 
@@ -64,10 +69,15 @@ O programa recebe números até que a pessoa escolha parar. O primeiro valor inf
 
 ## 📂 Materiais disponíveis
 
-| Arquivo | Conteúdo |
-|---|---|
-| [💻 ExemploArvoreSimples.cpp](ExemploArvoreSimples.cpp) | Inserção dinâmica de números em uma árvore binária de busca e exibição recursiva no console. |
-| [📄 Árvore.pdf](Árvore.pdf) | Material da aula: introdução, árvore binária, nomenclatura, altura e balanceamento. |
+<table width="100%">
+  <thead>
+    <tr><th>Arquivo</th><th>Conteúdo</th></tr>
+  </thead>
+  <tbody>
+    <tr><td><a href="ExemploArvoreSimples.cpp">💻 ExemploArvoreSimples.cpp</a></td><td>Inserção dinâmica de números em uma árvore binária de busca e exibição recursiva no console.</td></tr>
+    <tr><td><a href="Árvore.pdf">📄 Árvore.pdf</a></td><td>Material da aula: introdução, árvore binária, nomenclatura, altura e balanceamento.</td></tr>
+  </tbody>
+</table>
 
 ## 📚 Referência
 
