@@ -17,6 +17,7 @@ Repositório com as anotações, resumos e exercícios em **C/C++** desenvolvido
 | **09** | `structs` e registros | [Atividades](Aula%2009%20%E2%80%94%20Structs/README.md) |
 | **10** | Lista dinâmica (alocação com `new` e `delete`) | [Atividade](Aula%2010%20%E2%80%94%20Lista%20Din%C3%A2mica/README.md) |
 | **11** | Pilha (Stack) — LIFO e comparação com fila | [Atividades](Aula%2011%20%E2%80%94%20Pilha%20(Stack)/README.md) |
+| **12** | Árvores binárias e árvore binária de busca | [Resumo e exemplo em C++](Aula%2012%20%E2%80%94%20%C3%81rvores%20Bin%C3%A1rias/README.md) |
 
 ## 🎓 Sobre a disciplina
 
