@@ -13,6 +13,10 @@ Protótipo de uma **máquina de coleta de sangue** desenvolvida na disciplina de
 
 Criar um protótipo físico e de interface (software embarcado) de um equipamento de autoatendimento para coleta de sangue, priorizando a **usabilidade**, a **acessibilidade** e o conforto do usuário, de modo que a pessoa se sinta tranquila ao realizar o exame mesmo sem suporte presencial.
 
+## 📄 Documento do projeto
+
+O documento completo do projeto, com justificativa, objetivos, pesquisas, metodologia e referências, está disponível em [Projeto Doutor Patinhas.pdf](Projeto%20Doutor%20Patinhas.pdf).
+
 ## 🖼️ Conceito do produto (gerado por IA)
 
 Imagem conceitual da máquina, gerada com ferramentas de IA, demonstrando o produto desenvolvido:
@@ -58,6 +62,7 @@ As telas do software embarcado no equipamento foram elaboradas no **Figma**, con
 ## 📂 Estrutura
 
 - `README.md` — descrição do projeto.
+- `Projeto Doutor Patinhas.pdf` — documentação completa do projeto.
 - `prototipo-inicial.png` — foto do protótipo inicial.
 - `ideia-maquina-ia.png` — imagem conceitual do produto (gerada por IA).
 - `telas-doutor-patinhas.png` — telas do software embarcado (Figma).
