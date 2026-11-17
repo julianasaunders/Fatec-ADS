@@ -34,14 +34,23 @@ Essa organização pode reduzir o trabalho de busca quando a árvore está bem d
 
 ## 📖 Nomenclatura
 
-| Termo | Significado |
-|---|---|
-| Raiz | Primeiro nó, no topo da árvore |
-| Nó | Elemento que armazena um valor e ligações para seus filhos |
-| Filho | Nó ligado abaixo de outro nó |
-| Folha | Nó sem filhos |
-| Subárvore | Nó considerado raiz junto com seus descendentes |
-| Altura | Comprimento do caminho mais longo da raiz até uma folha |
+```text
+                 10  ← raiz
+                /  \
+               5    15
+                   /
+                  12
+```
+
+- **Raiz:** nó que fica no topo da árvore. É o primeiro valor inserido e, nesta árvore de busca, o primeiro comparado durante cada nova inserção. A raiz não tem pai.
+- **Nó:** cada elemento armazenado na estrutura. Neste exemplo, `10`, `5`, `15` e `12` são nós; cada um guarda um valor e pode apontar para um filho à esquerda e outro à direita.
+- **Filhos:** nós ligados diretamente abaixo de outro nó. `5` e `15` são filhos da raiz `10`; `12` é filho de `15`. Em uma árvore binária, cada nó pode ter no máximo dois filhos.
+- **Pai:** nó imediatamente acima de outro, ligado a ele. `10` é pai de `5` e `15`, e `15` é pai de `12`. Todo nó, exceto a raiz, tem exatamente um pai.
+- **Folha:** nó que não possui filhos; seus ponteiros esquerdo e direito são `NULL`. No exemplo, `5` e `12` são folhas.
+- **Subárvore:** um nó considerado como raiz junto com todos os seus descendentes. Por exemplo, a subárvore com raiz `15` contém também o nó `12`.
+- **Altura:** número de ligações (arestas) no caminho mais longo da raiz até uma folha. No exemplo, a altura é `2`, pelo caminho `10 → 15 → 12`.
+
+> **Relação entre os termos:** um nó pode ser filho de um nó e, ao mesmo tempo, pai de outros. A raiz de uma subárvore é seu nó inicial; ela não altera qual é a raiz da árvore completa.
 
 ## 💻 Exemplo em C++
 
