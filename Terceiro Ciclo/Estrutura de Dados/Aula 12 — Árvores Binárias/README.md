@@ -42,13 +42,15 @@ Essa organização pode reduzir o trabalho de busca quando a árvore está bem d
                   12
 ```
 
-- **Raiz:** nó que fica no topo da árvore. É o primeiro valor inserido e, nesta árvore de busca, o primeiro comparado durante cada nova inserção. A raiz não tem pai.
-- **Nó:** cada elemento armazenado na estrutura. Neste exemplo, `10`, `5`, `15` e `12` são nós; cada um guarda um valor e pode apontar para um filho à esquerda e outro à direita.
-- **Filhos:** nós ligados diretamente abaixo de outro nó. `5` e `15` são filhos da raiz `10`; `12` é filho de `15`. Em uma árvore binária, cada nó pode ter no máximo dois filhos.
-- **Pai:** nó imediatamente acima de outro, ligado a ele. `10` é pai de `5` e `15`, e `15` é pai de `12`. Todo nó, exceto a raiz, tem exatamente um pai.
-- **Folha:** nó que não possui filhos; seus ponteiros esquerdo e direito são `NULL`. No exemplo, `5` e `12` são folhas.
-- **Subárvore:** um nó considerado como raiz junto com todos os seus descendentes. Por exemplo, a subárvore com raiz `15` contém também o nó `12`.
-- **Altura:** número de ligações (arestas) no caminho mais longo da raiz até uma folha. No exemplo, a altura é `2`, pelo caminho `10 → 15 → 12`.
+| Nomenclatura | Definição | Exemplo na figura |
+|---|---|---|
+| **Raiz** | Nó que fica no topo da árvore. É o primeiro valor inserido e, nesta árvore de busca, o primeiro comparado durante cada nova inserção. Não possui pai. | `10` |
+| **Nó** | Cada elemento armazenado na estrutura. Guarda um valor e pode apontar para um filho à esquerda e outro à direita. | `10`, `5`, `15` e `12` |
+| **Filhos** | Nós ligados diretamente abaixo de outro nó. Em uma árvore binária, cada nó pode ter no máximo dois filhos. | `5` e `15` são filhos de `10`; `12` é filho de `15`. |
+| **Pai** | Nó imediatamente acima de outro, ligado diretamente a ele. Todo nó, exceto a raiz, tem exatamente um pai. | `10` é pai de `5` e `15`; `15` é pai de `12`. |
+| **Folha** | Nó que não possui filhos; seus ponteiros esquerdo e direito são `NULL`. | `5` e `12` |
+| **Subárvore** | Um nó considerado como raiz junto com todos os seus descendentes. | A subárvore com raiz `15` contém também o nó `12`. |
+| **Altura** | Número de ligações (arestas) no caminho mais longo da raiz até uma folha. | `2`, pelo caminho `10 → 15 → 12`. |
 
 > **Relação entre os termos:** um nó pode ser filho de um nó e, ao mesmo tempo, pai de outros. A raiz de uma subárvore é seu nó inicial; ela não altera qual é a raiz da árvore completa.
 
