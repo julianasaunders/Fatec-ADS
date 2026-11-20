@@ -19,6 +19,13 @@ Este repositório reúne anotações, atividades e projetos desenvolvidos durant
 | **06** | Gerenciamento de memória: hierarquia, alocação, fragmentação, paginação e memória virtual | [Resumo e projeto Monitor de SO](Aula%2006%20%E2%80%94%20Gerenciamento%20de%20Mem%C3%B3ria%20em%20Sistemas%20Operacionais/README.md) |
 | **07** | Computação em nuvem, containers e deploy no Render | [Resumo e manual](Aula%2007%20%E2%80%94%20Computa%C3%A7%C3%A3o%20em%20Nuvem,%20Containers%20e%20Deploy/README.md) |
 
+### 🚀 Projeto integrador
+
+- **[MeOwganiza](https://github.com/julianasaunders/MeOwganiza)** — organizador seguro de arquivos desenvolvido como projeto integrador da disciplina de Sistemas Operacionais. O aplicativo simula a organização antes de aplicar qualquer mudança e reúne conceitos estudados em aula: processos e memória, sistema de arquivos, permissões, automação com cron/Agendador de Tarefas, diagnóstico do sistema e empacotamento para Windows, Linux e macOS.
+  - [Código-fonte no GitHub](https://github.com/julianasaunders/MeOwganiza)
+  - [Página de downloads](https://julianasaunders.github.io/MeOwganiza/download.html?v=2)
+  - [Demonstração web](https://julianasaunders.github.io/MeOwganiza/)
+
 ### 📖 Referências
 
 - TANENBAUM, A. S.; BOS, H. *Sistemas Operacionais Modernos*. 4. ed. Pearson, 2016. — [PDF no repositório](Refer%C3%AAncias/Sistemas%20Operacionais%20Modernos.pdf)
