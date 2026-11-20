@@ -39,4 +39,10 @@ Materiais de consulta usados ao longo da disciplina — livros, manuais e docume
 
 ---
 
+## 🧩 Projeto integrador da disciplina
+
+- **[MeOwganiza](https://github.com/julianasaunders/MeOwganiza)** — projeto integrador de Sistemas Operacionais: organizador seguro de arquivos com CLI, interface web e aplicativo desktop para Windows, Linux e macOS. [Código-fonte](https://github.com/julianasaunders/MeOwganiza) · [Downloads](https://julianasaunders.github.io/MeOwganiza/download.html?v=2) · [Demonstração](https://julianasaunders.github.io/MeOwganiza/).
+
+---
+
 [← Voltar ao índice](../README.md)
